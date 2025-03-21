@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://elmoparmg.com/logo.png" alt="Elmoparmg Logo" width="200"/>
+  <img src="https://elmoparmg.com/elmoparmg.png" alt="Elmoparmg Logo" width="200"/>
   
   # 🌟 Elmoparmg - Empowering Innovation 🚀
   
